@@ -1,0 +1,21 @@
+{
+  "name": "fuck-thu-physical-expriment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fake-useragent": "^1.0.1",
+    "form-data": "^3.0.0",
+    "inquirer": "^7.3.3",
+    "querystring": "^0.2.0",
+    "yargs": "^16.0.3"
+  }
+}
